@@ -20,6 +20,7 @@ int main() {
   map1["dua"] = 20;
 
   // Menghapus elemen
+  // 
   map1.erase("satu");
 
   return 0;
